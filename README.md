@@ -11,7 +11,7 @@
 ------------------
 
 - 👋 Hi, I’m @javiolmo
-- 👨‍ I’m experienced in marketing, IT (sysadmin), project management, tech consultancy and digital business.
+- 👨‍💻 I’m experienced in marketing, IT (sysadmin), project management, tech consultancy and digital business.
 - 🧠 I am multidisciplinary. My mind is scientific - engineering and analytical, along with creative and communication skills. I think in graphics, diagrams and connections, but I am able to transfer it to content.
 - 👀 I’m interested and investigating in product design and knowledge management.
 - 🌱 I’m currently learning about better ways to manage and connect information in order to extract insights an value.
