@@ -1,10 +1,10 @@
 - 👋 Hola, soy @javiolmo
-- 👀 Tengo experiencia en marketing, IT (sysadmin), project management, consultoria tech y negocios digitales.
+- 👨‍💻 Tengo experiencia en marketing, IT (sysadmin), project management, consultoria tech y negocios digitales.
 - 💞️Soy multidisciplinar. Mi mente es científico - ingenieril y analítica, junto con capacidad creativa y de comunicar. Pienso en gráficos, esquemas y conexiones.
 - 👀 Estoy interesado e investigando sobre diseño de producto y gestión del conocimiento.
 - 🌱 Estoy aprendiendo sobre mejores formas de gestionar y conectar la información para extraer insights y valor de ella.
-- 💞️ Busco colaborar en la investigación sobre información, conocimiento, metodologías de trabajo y herramientas sobre mi mencionada experiencia y campos de interés.
-- 💞️ Trabajé para una administración pública, para mí mismo como emprendedor con una red de colaboradores y he ttrabajado como empleado en empresas de todos los tamaños, incluida una empresa multinacional con grandes clientes del ibex35 (la bolsa española).
+- 🧪 Busco colaborar en la investigación sobre información, conocimiento, metodologías de trabajo y herramientas sobre mi mencionada experiencia y campos de interés.
+- 💼 Trabajé para una administración pública, para mí mismo como emprendedor con una red de colaboradores y he ttrabajado como empleado en empresas de todos los tamaños, incluida una empresa multinacional con grandes clientes del ibex35 (la bolsa española).
 
 - 📫 You can reach me at my website https://javiolmo.es in the social media profiles you find there or email at javi@javiolmo.es
 
