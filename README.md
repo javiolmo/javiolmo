@@ -7,7 +7,8 @@
 - 💼 Trabajé para una administración pública local, para mí mismo como emprendedor con una red de colaboradores y he trabajado como empleado en empresas de todos los tamaños. Incluida una empresa multinacional con grandes clientes del Ibex35 (la bolsa española).
 - 🎓 Soy formador y docente con experiencia en mis ámbitos de conocimiento, para cursos de empresa, universidades y escuelas de negocio.
 
-- 📫 You can reach me at my website https://javiolmo.es in the social media profiles you find there or email at javi@javiolmo.es
+- 📫 Puedes encontrarme en mi sitio web https://javiolmo.es en los perfiles de redes sociales que encuentras allí o enviar un correo electrónico a javi@javiolmo.es
+
 
 ------------------
 
@@ -20,7 +21,8 @@
 - 💼 I worked for a one local public administration, for myself as entepreneur with a net of colaborators and worked as an employee in companies of all sizes. Including a multinational company with large clients of the Ibex35 (The spanish stock market).
 - 🎓 I'm a trainer and teacher with experience in my fields of knowledge, for company courses, universities and business schools.
 
-- 📫 Puedes encontrarme en mi sitio web https://javiolmo.es en los perfiles de redes sociales que encuentras allí o enviar un correo electrónico a javi@javiolmo.es
+- 📫 You can reach me at my website https://javiolmo.es in the social media profiles you find there or email at javi@javiolmo.es
+
 
 <!---
 javiolmo/javiolmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
